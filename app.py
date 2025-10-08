@@ -4,7 +4,7 @@ import time
 
 app = Flask(__name__)
 
-URL = "https://sede.administracionespublicas.gob.es/icpplus/index"
+URL = "https://icp.administracionelectronica.gob.es/icpplus/acCitar"
 
 def comprobar():
     try:
